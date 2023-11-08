@@ -1,9 +1,9 @@
 ![Headers](https://github.com/AlexandraTM01/AlexandraTM01/blob/main/assets/Снимок%20экрана%202023-11-08%20в%2015.26.55.png)
 
-## I'm a beginner QA Engineer
+# I'm a beginner QA Engineer
 
 
-### Tools
+# Tools
 
 <div>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
@@ -19,7 +19,7 @@
 ---
 
 
-### Testing documentation
+# Testing documentation
 
 
 - [Test design](https://github.com/AlexandraTM01/QA_portfolio/tree/main/Тест-дизайн)
@@ -32,7 +32,7 @@
 ---
 
 
-### Follow me
+# Follow me
 
   <div id="badges">
     </a>
