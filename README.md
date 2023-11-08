@@ -2,7 +2,8 @@
 
 ## I'm a beginner QA Engineer
 
-Tools
+
+### Tools
 
 <div>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
@@ -15,11 +16,23 @@ Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
 <div>
 
-Testing documentation
+---
 
+
+### Testing documentation
+
+
+- [Test design](https://github.com/AlexandraTM01/QA_portfolio/tree/main/Тест-дизайн)
 - [Checklists](https://github.com/AlexandraTM01/QA_portfolio/blob/main/Тестовая-документация/Чек-листы%20функциональность%20«Сделать%20заказ».pdf)
+- [Test-Cases](https://github.com/AlexandraTM01/QA_portfolio/blob/main/Тестовая-документация/Тест-кейсы%20Яндекс%20Метро.pdf)
+- [Bug-reports](https://github.com/AlexandraTM01/QA_portfolio/tree/main/Баг-репорты)
+- [Postman Cpllections](https://github.com/AlexandraTM01/QA_portfolio/blob/main/API/Тестирование%20API.%20Яндекс.Прилавок.postman_collection.json)
+- [API - Check-list](https://github.com/AlexandraTM01/QA_portfolio/blob/main/API/Чек-лист%20тестирование%20API.pdf)
 
-Follow me
+---
+
+
+### Follow me
 
   <div id="badges">
     </a>
