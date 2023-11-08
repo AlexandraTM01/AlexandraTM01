@@ -1,4 +1,4 @@
-![Headers](https://github.com/AlexandraTM01/AlexandraTM01/blob/main/assets/Снимок%20экрана%202023-11-08%20в%2015.26.55.png)
+![Headers](https://github.com/AlexandraTM01/AlexandraTM01/blob/main/assets/Снимок%20экрана%202023-11-08%20в%2018.50.59.png)
 
 # I'm a beginner QA Engineer
 
@@ -26,7 +26,7 @@
 - [Checklists](https://github.com/AlexandraTM01/QA_portfolio/blob/main/Тестовая-документация/Чек-листы%20функциональность%20«Сделать%20заказ».pdf)
 - [Test-Cases](https://github.com/AlexandraTM01/QA_portfolio/blob/main/Тестовая-документация/Тест-кейсы%20Яндекс%20Метро.pdf)
 - [Bug-reports](https://github.com/AlexandraTM01/QA_portfolio/tree/main/Баг-репорты)
-- [Postman Cpllections](https://github.com/AlexandraTM01/QA_portfolio/blob/main/API/Тестирование%20API.%20Яндекс.Прилавок.postman_collection.json)
+- [Postman Collections](https://github.com/AlexandraTM01/QA_portfolio/blob/main/API/Тестирование%20API.%20Яндекс.Прилавок.postman_collection.json)
 - [API - Check-list](https://github.com/AlexandraTM01/QA_portfolio/blob/main/API/Чек-лист%20тестирование%20API.pdf)
 
 ---
