@@ -1,4 +1,3 @@
-![Headers](https://github.com/AlexandraTM01/AlexandraTM01/blob/main/assets/Снимок%20экрана%202023-11-08%20в%2018.50.59.png)
 
 # I'm a QA Engineer
 
